@@ -18,6 +18,6 @@ function actualizar() {
   if (valor >= 10) {
     elemento.style.color = "red";
   } else {
-    elemento.style.color = "blue";
+    elemento.style.color = "green";
   }
 }
